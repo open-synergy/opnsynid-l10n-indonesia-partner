@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright 2021 OpenSynergy Indonesia
+Copyright 2021 PT. Simetri Sinergi Indonesia
+License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl). -->
+<openerp>
+    <data>
+        <record id="lau1_dki_jakarta_kep_seribu_data" model="res.partner.lau">
+            <field name="name">Kab. Kepulauan Seribu</field>
+            <field name="code">31.01</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJK" />
+            <field name="level">1</field>
+        </record>
+
+        <record id="lau1_dki_jakarta_pusat_data" model="res.partner.lau">
+            <field name="name">Kota Jakarta Pusat</field>
+            <field name="code">31.71</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJK" />
+            <field name="level">1</field>
+        </record>
+
+        <record id="lau1_dki_jakarta_utara_data" model="res.partner.lau">
+            <field name="name">Kota Jakarta Utara</field>
+            <field name="code">31.72</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJK" />
+            <field name="level">1</field>
+        </record>
+
+        <record id="lau1_dki_jakarta_barat_data" model="res.partner.lau">
+            <field name="name">Kota Jakarta Barat</field>
+            <field name="code">31.73</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJK" />
+            <field name="level">1</field>
+        </record>
+
+        <record id="lau1_dki_jakarta_selatan_data" model="res.partner.lau">
+            <field name="name">Kota Jakarta Selatan</field>
+            <field name="code">31.74</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJK" />
+            <field name="level">1</field>
+        </record>
+
+        <record id="lau1_dki_jakarta_timur_data" model="res.partner.lau">
+            <field name="name">Kota Jakarta Timur</field>
+            <field name="code">31.75</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJK" />
+            <field name="level">1</field>
+        </record>
+    </data>
+</openerp>
