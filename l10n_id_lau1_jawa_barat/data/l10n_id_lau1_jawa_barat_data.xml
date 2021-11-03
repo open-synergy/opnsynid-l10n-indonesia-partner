@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright 2021 OpenSynergy Indonesia
+Copyright 2021 PT. Simetri Sinergi Indonesia
+License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl). -->
+<openerp>
+    <data>
+        <record id="lau1_jawa_barat_data3201" model="res.partner.lau">
+            <field name="name">Bogor</field>
+            <field name="code">3201</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3202" model="res.partner.lau">
+            <field name="name">Sukabumi</field>
+            <field name="code">3202</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3203" model="res.partner.lau">
+            <field name="name">Cianjur</field>
+            <field name="code">3203</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3204" model="res.partner.lau">
+            <field name="name">Bandung</field>
+            <field name="code">3204</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3205" model="res.partner.lau">
+            <field name="name">Garut</field>
+            <field name="code">3205</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3206" model="res.partner.lau">
+            <field name="name">Tasikmalaya</field>
+            <field name="code">3206</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3207" model="res.partner.lau">
+            <field name="name">Ciamis</field>
+            <field name="code">3207</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3208" model="res.partner.lau">
+            <field name="name">Kuningan</field>
+            <field name="code">3208</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3209" model="res.partner.lau">
+            <field name="name">Cirebon</field>
+            <field name="code">3209</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3210" model="res.partner.lau">
+            <field name="name">Majalengka</field>
+            <field name="code">3210</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3211" model="res.partner.lau">
+            <field name="name">Sumedang</field>
+            <field name="code">3211</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3212" model="res.partner.lau">
+            <field name="name">Indramayu</field>
+            <field name="code">3212</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3213" model="res.partner.lau">
+            <field name="name">Subang</field>
+            <field name="code">3213</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3214" model="res.partner.lau">
+            <field name="name">Purwakarta</field>
+            <field name="code">3214</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3215" model="res.partner.lau">
+            <field name="name">Karawang</field>
+            <field name="code">3215</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3216" model="res.partner.lau">
+            <field name="name">Bekasi</field>
+            <field name="code">3216</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3217" model="res.partner.lau">
+            <field name="name">Bandung Barat</field>
+            <field name="code">3217</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3218" model="res.partner.lau">
+            <field name="name">Pangandaran</field>
+            <field name="code">3218</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3271" model="res.partner.lau">
+            <field name="name">Kota Bogor</field>
+            <field name="code">3271</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3272" model="res.partner.lau">
+            <field name="name">Kota Sukabumi</field>
+            <field name="code">3272</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3273" model="res.partner.lau">
+            <field name="name">Kota Bandung</field>
+            <field name="code">3273</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3274" model="res.partner.lau">
+            <field name="name">Kota Cirebon</field>
+            <field name="code">3274</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3275" model="res.partner.lau">
+            <field name="name">Kota Bekasi</field>
+            <field name="code">3275</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3276" model="res.partner.lau">
+            <field name="name">Kota Depok</field>
+            <field name="code">3276</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3277" model="res.partner.lau">
+            <field name="name">Kota Cimahi</field>
+            <field name="code">3277</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3278" model="res.partner.lau">
+            <field name="name">Kota Tasikmalaya</field>
+            <field name="code">3278</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+        <record id="lau1_jawa_barat_data3279" model="res.partner.lau">
+            <field name="name">Kota Banjar</field>
+            <field name="code">3279</field>
+            <field name="country_id" ref="base.id" />
+            <field name="state_id" ref="l10n_id_state.data_state_indonesiaJB" />
+            <field name="level">1</field>
+        </record>
+    </data>
+</openerp>
