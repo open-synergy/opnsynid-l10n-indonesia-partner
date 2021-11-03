@@ -1,0 +1,150 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* l10n_id_lau1_jawa_barat
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3204
+msgid "Bandung"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3217
+msgid "Bandung Barat"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3216
+msgid "Bekasi"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3201
+msgid "Bogor"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3207
+msgid "Ciamis"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3203
+msgid "Cianjur"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3209
+msgid "Cirebon"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3205
+msgid "Garut"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3212
+msgid "Indramayu"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3215
+msgid "Karawang"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3273
+msgid "Kota Bandung"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3279
+msgid "Kota Banjar"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3275
+msgid "Kota Bekasi"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3271
+msgid "Kota Bogor"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3277
+msgid "Kota Cimahi"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3274
+msgid "Kota Cirebon"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3276
+msgid "Kota Depok"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3272
+msgid "Kota Sukabumi"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3278
+msgid "Kota Tasikmalaya"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3208
+msgid "Kuningan"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3210
+msgid "Majalengka"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3218
+msgid "Pangandaran"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3214
+msgid "Purwakarta"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3213
+msgid "Subang"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3202
+msgid "Sukabumi"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3211
+msgid "Sumedang"
+msgstr ""
+
+#. module: l10n_id_lau1_jawa_barat
+#: model:res.partner.lau,name:l10n_id_lau1_jawa_barat.lau1_jawa_barat_data3206
+msgid "Tasikmalaya"
+msgstr ""
+
